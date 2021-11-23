@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/layout/activity_detail.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/layout/fragment_letter_list.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/layout/fragment_word_list.xml" value="0.27291666666666664" />
         <entry key="..\:/Words/app/src/main/res/layout/activity_detail.xml" value="0.27291666666666664" />
         <entry key="..\:/Words/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
         <entry key="..\:/Words/app/src/main/res/layout/item_view.xml" value="0.27291666666666664" />
